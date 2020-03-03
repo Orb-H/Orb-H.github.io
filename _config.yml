@@ -1,0 +1,9 @@
+# Site settings
+title: Jekyll One
+description: Jekyll One is a Jekyll theme for single-page websites only.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
