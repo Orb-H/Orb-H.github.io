@@ -1,11 +1,98 @@
-- section: Section One
-  text: |
-    **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+ko:
+  - section: 서브 페이지 목록
+    text: |
+      - [이력서](/resume)(한국어)(WIP)
+      - [프로젝트](/projects)(한국어)(WIP)
+      - [블로그](/blog)(한국어)(WIP)
+      - [네모네모 로직 풀이 프로그램](/nonogram-solver)(디자인 구데기)
+      - [백준 풀이 모음](/nojam)(버려질 예정)
 
-    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+  - section: 서브 페이지 설명
+    text: |
+      #### 이력서
 
-- section: Section Two
-  text: |
-    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+      - 한 장 짜리 resume 형식의 이력서를 정리합니다.
+      - 사실 제출할 때에는 디자인 없는 원본을 내겠지만 그래도 일단 정리하는게 좋을 것 같아서 만든 페이지입니다.
+      - CV 형식은 대학원 갈 때에나 필요하다고 해서 만들지 않을 예정입니다.
 
-    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+      #### 프로젝트
+
+      - 지금까지 했던 어느 정도 이상의 규모인 프로젝트를 정리합니다.
+      - 실질적인 개발은 2015년부터 진행했으므로 1년 단위로 진행한 프로젝트를 정리합니다.
+      - 프로젝트를 정리하겠다고 결심한 후에 깃허브에 올라가는 프로젝트도 있어서 진행한 시간대와 커밋이 올라간 시간대가 다를 수 있습니다.
+
+      #### 블로그
+
+      - 블로그입니다.
+      - 사실 글로 흔적을 잘 남기지 않는 편이라서 포스트가 생길지는 미지수입니다.
+      - 오히려 IT 쪽이 아닌 다른 주제의 포스트가 올라갈 수도 있습니다.
+
+      #### 네모네모 로직 풀이 프로그램
+
+      - 네모네모 로직을 풀어주는 웹 페이지입니다.
+      - 처음부터 웹에다 올릴 생각이라 JS로 개발을 시작했는데 암걸려 죽겠군요.
+      - 지킬에 올리니까 디자인이 이상해져서 다른 사이트로 옮길 예정입니다.
+
+      #### 백준 풀이 모음
+
+      - 백준에서 푼 문제의 리스트를 정리합니다.
+      - 사실 PS를 잘 못해서 쉬운 문제 위주로 존재합니다.
+      - solved.ac가 백준과 병합되기 이전에 만든 레포이기 때문에 문제의 난이도에 관련된 정보가 존재하지 않습니다. 추후 추가할 예정입니다.
+  
+  - section: Find me on...
+    text: |
+      - [깃허브](https://github.com/Orb-H)
+      - [트위터](https://twitter.com/orb_h_)
+      - [스팀](https://steamcommunity.com/id/Orb_H)
+      - [유튜브](https://www.youtube.com/channel/UC0unrsegI_KYXmDV13xLRYA)(거의 안함)
+      - [트위치](https://twitch.tv/orb_h)(거의 안함)
+      - [백준](https://www.acmicpc.net/user/orb_h)(거의 안함)
+
+en:
+  - section: List of Subpages
+    text: |
+      - [Resume](/resume)(Korean)(WIP)
+      - [Projects](/projects)(Korean)(WIP)
+      - [Blog](/blog)(Korean)(WIP)
+      - [Nonogram Solver](/nonogram-solver)(Not Designed)
+      - [Baekjoon Solution](/nojam)(Not Maintained)
+
+  - section: Description of Subpages
+    text: |
+      #### Resume
+
+      - A single-page resume.
+      - Actually this is not for submitting resume to companies, but just for prototyping.
+      - CV format is not planned to be made.
+
+      #### Projects
+
+      - List of projects whose size is not quite small.
+      - Projects are separated according to year project started.
+
+      #### Blog
+
+      - Literally a blog.
+      - I don't know if I would post since I am not used to log as an article.
+      - There could be some posts not related to IT, but related to other topics like math or science.
+
+      #### Nonogram Solver
+
+      - A page which solves nonogram puzzles.
+      - Website location will be changed due to design issue.
+
+      #### Baekjoon Solutions
+
+      - Baekjoon is a Korean PS site.
+      - Problems I solved in [Baekjoon(acmicpc.net)](https://acmicpc.net) are listed.
+      - Since I'm not good at PS, most problems are easy.
+      - Since this repository is edited before Baekjoon merged with solved.ac, information about problem difficulty does not exist. Will be added soon.
+  
+  - section: Find me on...
+    text: |
+      - [Github](https://github.com/Orb-H)
+      - [Twitter](https://twitter.com/orb_h_)
+      - [Steam](https://steamcommunity.com/id/Orb_H)
+      - [Youtube](https://www.youtube.com/channel/UC0unrsegI_KYXmDV13xLRYA)(Rarely Used)
+      - [Twitch](https://twitch.tv/orb_h)(Rarely Used)
+      - [Baekjoon(acmicpc.net)](https://www.acmicpc.net/user/orb_h)(Rarely Used)

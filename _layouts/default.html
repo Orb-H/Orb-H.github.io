@@ -15,7 +15,18 @@
     <div class="container">
       <h1><a href="./">{{ site.title }}</a></h1>
     </div>
+    <div class="container">
+      {% include header.html %}
+    </div>
     {{ content }}
+    {% for s in site.data.content[page.lang] %}
+      <section>
+        <div class="container">
+          <h2>{{ s.section }}</h2>
+          {{ s.text | markdownify }}
+        </div>
+      </section>
+    {% endfor %}
     {% include scripts.html %}
   </body>
 </html>

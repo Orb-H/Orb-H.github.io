@@ -1,9 +1,14 @@
 # Site settings
 title: Orb-H.github.io
 description: Main Page of Orb-H.github.io
+url: "https://orb-h.github.io"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+
+# Language settings
+def_lang: ko
