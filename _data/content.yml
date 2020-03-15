@@ -2,6 +2,7 @@ ko:
   - section: 서브 페이지 목록
     text: |
       - 이력서([한국어](/resume/ko/) / [English](/resume/en/))
+      - 프로젝트([한국어](/projects/ko/) / [English](/projects/en/))(WIP)
       - [블로그](/blog)(한국어)(WIP)
       - [네모네모 로직 풀이 프로그램](/nonogram-solver)(디자인 구데기)
       - [백준 풀이 모음](/nojam)(버려질 예정)
