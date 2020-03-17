@@ -1,8 +1,8 @@
 ko:
   - section: 서브 페이지 목록
     text: |
-      - 이력서([한국어](/resume/ko/) / [English](/resume/en/))
-      - 프로젝트([한국어](/projects/ko/) / [English](/projects/en/))(WIP)
+      - 이력서([한국어](/resume/ko/) / [영어](/resume/en/))
+      - 프로젝트([한국어](/projects/ko/) / [영어](/projects/en/))(WIP)
       - [블로그](/blog)(한국어)(WIP)
       - [네모네모 로직 풀이 프로그램](/nonogram-solver)(디자인 구데기)
       - [백준 풀이 모음](/nojam)(버려질 예정)
@@ -51,8 +51,8 @@ ko:
 en:
   - section: List of Subpages
     text: |
-      - Resume([English](/resume/en) / [Korean](/resume/ko))(WIP)
-      - [Projects](/projects)(Korean)(WIP)
+      - Resume([English](/resume/en/) / [Korean](/resume/ko/))
+      - [Projects]([English](/projects/en/) / [Korean](/projects/ko/))(WIP)
       - [Blog](/blog)(Korean)(WIP)
       - [Nonogram Solver](/nonogram-solver)(Not Designed)
       - [Baekjoon Solution](/nojam)(Not Maintained)
