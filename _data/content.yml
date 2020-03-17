@@ -52,7 +52,7 @@ en:
   - section: List of Subpages
     text: |
       - Resume([English](/resume/en/) / [Korean](/resume/ko/))
-      - [Projects]([English](/projects/en/) / [Korean](/projects/ko/))(WIP)
+      - Projects([English](/projects/en/) / [Korean](/projects/ko/))(WIP)
       - [Blog](/blog)(Korean)(WIP)
       - [Nonogram Solver](/nonogram-solver)(Not Designed)
       - [Baekjoon Solution](/nojam)(Not Maintained)
