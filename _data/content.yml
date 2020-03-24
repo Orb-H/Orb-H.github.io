@@ -5,7 +5,7 @@ ko:
       - 프로젝트([한국어](/projects/ko/) / [영어](/projects/en/))(WIP)
       - [블로그](/blog)(한국어)(WIP)
       - [네모네모 로직 풀이 프로그램](/nonogram-solver)(디자인 구데기)
-      - [백준 풀이 모음](/nojam)(버려질 예정)
+      - [PS 풀이 모음](/nojam)
 
   - section: 서브 페이지 설명
     text: |
@@ -33,11 +33,10 @@ ko:
       - 처음부터 웹에다 올릴 생각이라 JS로 개발을 시작했는데 암걸려 죽겠군요.
       - 지킬에 올리니까 디자인이 이상해져서 다른 사이트로 옮길 예정입니다.
 
-      #### 백준 풀이 모음
+      #### PS 풀이 모음
 
-      - 백준에서 푼 문제의 리스트를 정리합니다.
+      - 여러 PS 사이트에서 푼 문제의 리스트를 정리합니다.
       - 사실 PS를 잘 못해서 쉬운 문제 위주로 존재합니다.
-      - solved.ac가 백준과 병합되기 이전에 만든 레포이기 때문에 문제의 난이도에 관련된 정보가 존재하지 않습니다. 추후 추가할 예정입니다.
   
   - section: Find me on...
     text: |
@@ -55,7 +54,7 @@ en:
       - Projects([English](/projects/en/) / [Korean](/projects/ko/))(WIP)
       - [Blog](/blog)(Korean)(WIP)
       - [Nonogram Solver](/nonogram-solver)(Not Designed)
-      - [Baekjoon Solution](/nojam)(Not Maintained)
+      - [PS Storage](/nojam)
 
   - section: Description of Subpages
     text: |
@@ -81,12 +80,10 @@ en:
       - A page which solves nonogram puzzles.
       - Website location will be changed due to design issue.
 
-      #### Baekjoon Solutions
+      #### PS Storage
 
-      - Baekjoon is a Korean PS site.
-      - Problems I solved in [Baekjoon(acmicpc.net)](https://acmicpc.net) are listed.
+      - Problems I solved in several PS sites are listed.
       - Since I'm not good at PS, most problems are easy.
-      - Since this repository is edited before Baekjoon merged with solved.ac, information about problem difficulty does not exist. Will be added soon.
   
   - section: Find me on...
     text: |
